@@ -39,7 +39,7 @@ params:
       - type: action
         label: Contact
         url: /contact
-        style: link
+        style: primary
       - type: action
         label: Get Started
         url: /pricing
